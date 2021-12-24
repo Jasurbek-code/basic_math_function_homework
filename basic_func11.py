@@ -7,9 +7,9 @@
 # Output: 8
 
 def main(a):
-    return (a)
+    return abs(a)
 
-print(main(abs(-8)))
+print(main(-8))
 
 
 # git add basic_func11.py ; git commit -m "basic math function" ; git push
