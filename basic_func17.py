@@ -13,5 +13,5 @@ def main(a):
     a = a
     return a             # a argumenga pi qiymatini o'zlashtiramiz
 
-print(main(math.pi))     # math kutubxonasidan pi ni ishlatamiz
+print(main(math.pi))     # math kutubxonasidan pi ni ishlatamiz.
 
