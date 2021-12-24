@@ -10,6 +10,7 @@
 from math import pi         # math kutubxonasidan faqat pi funksiyani o'zini chaqirdik
 
 def main(a):
+    a = a
     return round(a, 2)      # pi ni yaxlitlab chiqaramiz
 
 print(main(pi))        # pi qiymatini a argumentga berdik
